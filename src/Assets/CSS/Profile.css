@@ -1,0 +1,41 @@
+.profiles{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+.profile{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom:20px ;
+    margin-right:20px;
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    word-wrap: break-word;
+}
+
+.img{
+    margin-right: 15px;
+}
+
+p{
+    line-height: 10px;
+}
+
+.right-profiles, .left-profiles{
+    width: 47%;
+}
+
+@media (max-width: 1000px){
+    .profiles{
+        flex-direction: column;
+    }
+    .right-profiles, .left-profiles{
+        width: 100%;
+        
+    }
+}

@@ -1,0 +1,15 @@
+.input-text{
+    width: 80%;
+    height: 30px;
+    outline: none;
+    padding: 5px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid rgb(203, 202, 202);
+   
+} 
+
+form{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

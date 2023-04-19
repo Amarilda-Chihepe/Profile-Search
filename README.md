@@ -1,3 +1,9 @@
+# HOSTED LINK
+https://profile-search-site-fay8cjrw1-amarilda-chihepe.vercel.app/
+I was having problems to host using netlify, that's why i used vercel
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++===
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
